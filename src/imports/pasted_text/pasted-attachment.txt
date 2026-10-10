@@ -1,0 +1,556 @@
+Use the following project information as the official project content for the Forge Insight portfolio.
+
+These projects must NOT be presented as ordinary academic projects, student projects, college projects, or a simple GitHub project gallery.
+
+The objective is to present them as proof-of-capability case studies that demonstrate what Forge Insight can build for real businesses.
+
+The overall message should be:
+
+We understand business problems, identify where AI and automation can create value, and build customized technology solutions around those problems.
+
+OFFICIAL PROJECTS
+
+Include these three projects:
+
+01 — Anemia Detection Using Conjunctiva Images
+Category
+
+Deep Learning / Computer Vision / Healthcare AI
+
+Positioning
+
+Present this as an example of how computer vision and machine learning can be applied to healthcare-related image analysis.
+
+The project demonstrates:
+
+Image-based AI
+Computer Vision
+CNN-based feature extraction
+Machine Learning classification
+Medical image analysis
+Automated visual assessment
+Business / Industry Problem
+
+Healthcare organizations can benefit from automated image-based analysis that helps identify potential indicators from visual data and supports faster preliminary assessment.
+
+Do NOT make medical claims that are not provided.
+
+Position the system as an AI-assisted image analysis concept/prototype, not as a replacement for medical professionals or a clinically validated diagnostic device.
+
+Solution
+
+An image-based AI pipeline that processes conjunctiva images and applies computer vision/deep learning techniques for anemia-related classification.
+
+Technology / AI Stack
+
+Use the information already available in the project.
+
+Highlight:
+
+Computer Vision → CNN Feature Extraction → Machine Learning Classification
+
+Do not invent additional technologies.
+
+Client Capability
+
+Use this project to communicate Forge Insight's ability to build:
+
+Computer vision systems
+Image classification systems
+AI-assisted inspection tools
+Visual analytics
+Image-based automation
+Domain-specific ML solutions
+Relevant Industries
+
+Potentially relevant to:
+
+Healthcare
+Medical technology
+Research
+Diagnostic support systems
+Image-based inspection
+
+Clearly distinguish between the demonstration project and production/clinical deployment.
+
+02 — MindCrafter
+Category
+
+Generative AI / EdTech / Intelligent Learning
+
+Positioning
+
+Do NOT present MindCrafter simply as a learning project.
+
+Present it as a demonstration of how Generative AI can transform static learning experiences into intelligent, interactive systems.
+
+Business Problem
+
+Traditional digital learning experiences often rely on static content and do not dynamically adapt to individual learners' needs, questions, or pace.
+
+Solution
+
+MindCrafter is an AI-powered learning platform designed to create personalized learning experiences using Generative AI, intelligent content generation, interactive Q&A, and adaptive learning.
+
+Core Capabilities
+
+Highlight:
+
+Generative AI
+Intelligent content generation
+Interactive Q&A
+Personalized learning
+Adaptive learning experiences
+AI-assisted education
+Technology
+
+Use the confirmed technology:
+
+Flask + Gemini AI
+
+Do not add technologies that have not been provided.
+
+Client Capability
+
+Use MindCrafter to demonstrate that Forge Insight can build:
+
+Generative AI applications
+AI assistants
+Intelligent Q&A systems
+Personalized recommendation experiences
+AI-powered education platforms
+Custom LLM-powered applications
+Relevant Industries
+
+Potentially relevant to:
+
+Education
+Corporate training
+EdTech
+Knowledge management
+Internal employee learning
+Customer education
+03 — PaperMind
+Category
+
+Generative AI / RAG / Research Intelligence
+
+Positioning
+
+PaperMind should be presented as an example of an intelligent knowledge-retrieval system.
+
+Do NOT make it look like a generic chatbot.
+
+The important capability is:
+
+Users can ask questions across multiple research papers and receive context-aware answers based on retrieved information.
+
+Business Problem
+
+Organizations often have large amounts of documents, reports, research papers, and internal knowledge that are difficult and time-consuming to search manually.
+
+Solution
+
+PaperMind is a RAG-based AI research assistant capable of retrieving relevant information from uploaded research papers and generating grounded responses.
+
+Core Technology
+
+Highlight:
+
+LLMs + RAG + Embeddings + Intelligent Document Retrieval
+
+Core Capabilities
+
+Show:
+
+Multi-document understanding
+Semantic search
+Document retrieval
+Embeddings
+Retrieval-Augmented Generation
+Context-aware answers
+LLM-powered responses
+Research knowledge discovery
+Client Capability
+
+Use PaperMind to demonstrate Forge Insight's ability to build:
+
+Enterprise RAG systems
+Internal knowledge assistants
+Research assistants
+Document intelligence platforms
+AI search systems
+Knowledge management systems
+Custom LLM applications
+Relevant Industries
+
+Potentially relevant to:
+
+Research
+Education
+Healthcare
+Legal
+Consulting
+Enterprise knowledge management
+Documentation-heavy organizations
+HOW THE PROJECTS SHOULD APPEAR
+
+Do NOT make the project section look like:
+
+Project 1
+Project 2
+Project 3
+
+with only an image, title, and short description.
+
+Instead, make each project feel like a miniature consulting case study.
+
+Use a structure similar to:
+
+PROJECT 01
+
+Anemia Detection
+Using Conjunctiva Images
+
+[Large visual / product image]
+
+BUSINESS PROBLEM
+What problem does this solve?
+
+SOLUTION
+What did we build?
+
+AI / TECHNOLOGY STACK
+What technologies and AI capabilities were used?
+
+CAPABILITIES
+What can this type of system do?
+
+BUSINESS VALUE
+Why would this matter to an organization?
+
+RELEVANT INDUSTRIES
+Where could this capability be applied?
+
+[View Case Study →]
+
+Repeat the same visual structure for MindCrafter and PaperMind.
+
+IMPORTANT — DO NOT INVENT BUSINESS RESULTS
+
+For these projects, we do NOT currently have verified:
+
+Revenue numbers
+User counts
+Accuracy claims
+ROI
+Deployment statistics
+Customer numbers
+Time saved
+Cost reduction percentages
+Production usage statistics
+
+Therefore:
+
+DO NOT invent impact numbers.
+
+Instead, use language such as:
+
+Expected business value
+Potential applications
+Demonstrated capability
+Potential operational impact
+Applicable use cases
+Proof of concept
+
+This makes the portfolio credible.
+
+BUSINESS VALUE PRESENTATION
+
+Instead of fake statistics, communicate value through outcomes.
+
+For example:
+
+Anemia Detection
+
+Potential value:
+
+Automated image analysis → Faster preliminary assessment → Scalable visual screening workflows
+
+MindCrafter
+
+Potential value:
+
+Static learning → Intelligent interaction → Personalized learning experiences
+
+PaperMind
+
+Potential value:
+
+Manual document search → Semantic retrieval → Faster knowledge discovery
+
+Use visual diagrams where useful.
+
+Example:
+
+Business Problem
+       ↓
+AI Solution
+       ↓
+Automation / Intelligence
+       ↓
+Business Value
+SERVICES SECTION
+
+The projects should naturally lead into Forge Insight's broader services.
+
+After the case studies, introduce:
+
+What We Build
+
+Use the existing Forge Insight visual language.
+
+Highlight the following capabilities:
+
+AI & Automation
+AI Automation
+AI Agents
+Workflow Automation
+Business Process Optimization
+Generative AI
+Generative AI Applications
+LLM Solutions
+RAG Systems
+Intelligent Assistants
+Knowledge Retrieval
+Software Development
+Custom Software Development
+Web Applications
+Mobile Applications
+API Development
+Data & Intelligence
+Data Analytics
+Data Processing
+Intelligent Dashboards
+Data-driven Decision Systems
+Computer Vision
+Image Classification
+Visual Inspection
+Computer Vision Systems
+Image-based AI
+
+Do not make this section look like a generic list of technologies.
+
+Present these as business capabilities.
+
+SERVICE → PROJECT CONNECTION
+
+Create a subtle connection between projects and services.
+
+For example:
+
+PaperMind
+RAG Systems
+Generative AI
+LLMs
+Embeddings
+Document Intelligence
+MindCrafter
+Generative AI
+AI Assistants
+Intelligent Applications
+Personalization
+Custom Software
+Anemia Detection
+Computer Vision
+Deep Learning
+ML Classification
+Image Intelligence
+Healthcare AI
+
+This allows a potential client to immediately understand:
+
+"If Forge Insight built this, they can potentially build something similar for my business."
+
+CASE STUDY INTERACTION
+
+Make each project interactive.
+
+Default state:
+
+Project title
+Category
+Main visual
+Short positioning statement
+
+Hover state:
+
+Image slightly enlarges
+Orange accent appears
+Additional capability information fades in
+Arrow moves slightly
+Small "View Case Study" indicator appears
+
+Keep the interaction subtle.
+
+Use approximately:
+
+300–500 ms Smart Animate
+
+PROJECT VISUALS
+
+Use the project screenshots/images that already exist in the Figma file.
+
+Do not replace them with unrelated stock images.
+
+If a project needs an additional visual treatment, create a floating AI visual layer around the existing screenshot.
+
+Examples:
+
+PaperMind
+
+Floating:
+
+Document fragments
+Search nodes
+Connected knowledge points
+Embedding vectors
+Small retrieval indicators
+MindCrafter
+
+Floating:
+
+Learning nodes
+Question/answer fragments
+Content blocks
+AI-generated knowledge particles
+Anemia Detection
+
+Floating:
+
+Image-analysis grid
+Computer vision nodes
+CNN-like connection structures
+Classification indicators
+
+These should be subtle and decorative.
+
+DO NOT USE GEMINI-STYLE VIDEOS
+
+This is especially important.
+
+Do NOT fill project sections with large AI-generated videos.
+
+Instead, create floating animated visual systems around the project screenshots.
+
+The visual language should be:
+
+Static product screenshot + living AI visualization
+
+rather than:
+
+Video playing in a container.
+
+The animation should communicate what the technology is doing.
+
+PORTFOLIO STORYTELLING
+
+The website should tell this story:
+
+FORGE INSIGHT
+        ↓
+We understand business problems
+        ↓
+We identify opportunities for AI & automation
+        ↓
+We design customized solutions
+        ↓
+We build intelligent systems
+        ↓
+We integrate them into workflows
+        ↓
+We create measurable business value
+
+The projects are evidence supporting this story.
+
+They are NOT the story themselves.
+
+CASE STUDIES → SERVICES → CTA
+
+After the project section, transition naturally into:
+
+What We Can Build For You
+
+Then show the service capabilities.
+
+Then finish with a strong CTA.
+
+Possible visual structure:
+
+YOUR BUSINESS PROBLEM
+
+        ↓
+
+OUR EXPERTISE
+
+AI
+Automation
+RAG
+LLMs
+Computer Vision
+Data Analytics
+Custom Software
+
+        ↓
+
+CUSTOM SOLUTION
+
+        ↓
+
+LET'S BUILD
+
+The final CTA should communicate:
+
+Forge Insight is ready to understand the client's problem and build a customized solution.
+
+Use the existing CTA language/content if already present in the Figma file. Do not unnecessarily rewrite it.
+
+FINAL POSITIONING
+
+The final portfolio should NOT feel like:
+
+"Here are three projects we made."
+
+It should feel like:
+
+"Here are three demonstrations of the kinds of intelligent systems Forge Insight can design and build for businesses."
+
+The visitor should finish the Projects section understanding:
+
+We can understand your problem.
+
+We can apply the right AI/technology.
+
+We can build the system.
+
+We can adapt it to your business workflow.
+
+Let's talk about what we can build for you.
+
+CRITICAL IMPLEMENTATION RULE
+
+Do not modify the existing:
+
+Vision content
+Project facts
+Process content
+Tech Stack content
+Founder information
+Founder images
+Forge Insight branding
+
+Only improve the presentation, structure, interaction, animation, and client-facing positioning.
+
+Use the three official projects above as the source of truth for the Projects / Case Studies section.
+
+The final design should look like a professional AI technology solutions company portfolio, not a student portfolio or GitHub showcase.

@@ -1,0 +1,43 @@
+services:
+  # ─── Backend: Python FastAPI ─────────────────────────────────────────────────
+  - type: web
+    name: forgeinsight-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DB_HOST
+        sync: false          # Set manually in Render dashboard
+      - key: DB_PORT
+        value: "3306"
+      - key: DB_USER
+        sync: false          # Set manually in Render dashboard
+      - key: DB_PASSWORD
+        sync: false          # Set manually in Render dashboard
+      - key: DB_NAME
+        value: forge_insight
+      - key: FRONTEND_ORIGIN
+        value: https://www.forgeinsight.co
+    healthCheckPath: /api/health
+
+  # ─── Frontend: React + Vite (Static Site) ────────────────────────────────────
+  - type: web
+    name: forgeinsight-frontend
+    runtime: static
+    buildCommand: pnpm install && pnpm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://forgeinsight-backend.onrender.com
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /index.html
+        name: Cache-Control
+        value: no-cache
